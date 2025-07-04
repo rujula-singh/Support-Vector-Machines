@@ -68,6 +68,7 @@ param_grid = {
     'gamma': ['scale', 'auto', 0.1, 1, 10],
     'kernel': ['rbf', 'linear']
 }
+```
 
 ##Decision Boundary Plots
 
@@ -75,4 +76,4 @@ param_grid = {
 ![Linear SVM Decision Boundary](linear_svm_decision_boundary.png)
 
 ###RBF SVM
-![RBF SVM Decision Boundary](rbv_svm.png)
+![RBF SVM Decision Boundary](rbf_svm.png)
